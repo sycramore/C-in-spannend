@@ -14,5 +14,9 @@ Das Projekt ist langfristig angelegt. Ich arbeite am besten mit Mustererkennung 
 
 # Quellen
 
-*[Steinalter Linuxkernel von 1991](https://www.kernel.org/pub/linux/kernel/Historic/)
-*[ChatGPT](chat.openai.com)
+*[Steinalter Linuxkernel von 1991](https://www.kernel.org/pub/linux/kernel/Historic/) \
+*[ChatGPT](chat.openai.com) \
+*[8086-Assembly](https://github.com/jishanshaikh4/8086-cheatsheet) \
+*[Minix 1.5](https://wiki.minix3.org/doku.php?id=www:download:previousversions) \
+*[Minix 1.5](https://mirror.math.princeton.edu/pub/oldlinux/Linux.old/Minix/1.7.1/) \
+*
